@@ -1,0 +1,33 @@
+_repo: L-Avare_6318
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Molière, Jean Baptiste Poquelin de
+    - Moliere
+    - Poquelin, Jean-Baptiste
+    - Poquelin de Molière, Jean Baptiste
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6318'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Comedies'
+- GITenberg
+title: L'Avare
+url: http://www.gutenberg.org/ebooks/6318
